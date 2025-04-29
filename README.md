@@ -1,0 +1,2 @@
+# GameViewScreenshotEditor
+GameViewをスクリーンショットするEditor拡張
